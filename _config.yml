@@ -1,0 +1,28 @@
+name: Outpost VR
+favicon: null
+layout_spectrum: 0.2751401527784765
+typography_spectrum: 0.7340994297992438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6297415436711162
+  lightness: 0.2379052354954183
+  saturation: 0.5062916926108301
+  rhythmicContrast: 0.4132305176462978
+purpose: []
